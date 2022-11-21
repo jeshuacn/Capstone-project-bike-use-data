@@ -1,6 +1,6 @@
 # Capstone-project-bike-use-data
 
-EDA Project for bike use data [Notebook](https://github.com/jeshuacn/Capstone-project-bike-use-data/blob/main/Cyclistic_Bike_Sharing.ipynb)
+EDA Project for bike use data. [Notebook](https://github.com/jeshuacn/Capstone-project-bike-use-data/blob/main/Cyclistic_Bike_Sharing.ipynb)
 
 ## Scenario
 The director of marketing believes the company’s future success depends on maximizing the number of annual memberships. Therefore, your team wants to understand how casual riders and annual members use bikes differently. From these insights, your team will design a new marketing strategy to convert casual riders into annual members.
