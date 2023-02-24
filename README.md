@@ -1,6 +1,6 @@
 # Capstone-project-bike-use-data
 
-EDA Project for bike use data. [![Notebook]](https://github.com/jeshuacn/Capstone-project-bike-use-data/blob/main/Cyclistic_Bike_Sharing.ipynb)
+[![Notebook]](https://github.com/jeshuacn/Capstone-project-bike-use-data/blob/main/Cyclistic_Bike_Sharing.ipynb) EDA Project for bike use data.
 
 [Notebook]: https://img.shields.io/badge/Notebook-informational?style=for-the-badge
 ## Scenario
