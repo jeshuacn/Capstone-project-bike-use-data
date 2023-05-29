@@ -1,4 +1,4 @@
-# Capstone-project-bike-use-data
+# Capstone project: bike use data
 
 [![Notebook]](https://github.com/jeshuacn/Capstone-project-bike-use-data/blob/main/Cyclistic_Bike_Sharing.ipynb)  [![Dashboard]](https://public.tableau.com/app/profile/jeshua2189/viz/CaseStudyCyclisticBikeSharing/CaseStudyCyclisticBikeSharing?publish=yes)
 
