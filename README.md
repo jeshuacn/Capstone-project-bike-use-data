@@ -7,7 +7,7 @@ EDA Project for bike use data.
 [Notebook]: https://img.shields.io/badge/Notebook-informational?style=for-the-badge
 [Dashboard]: https://img.shields.io/badge/Dashboard-green?style=for-the-badge
 
-![image](https://github.com/jeshuacn/Capstone-project-bike-use-data/assets/33787097/ce14b0af-bb4c-45fb-88e6-4fb6d970694d)
+![image](https://github.com/jeshuacn/Capstone-project-bike-use-data/assets/33787097/bd6dad18-a397-4e0f-8c9c-29871a26e4a1)
 
 
 ## Scenario
