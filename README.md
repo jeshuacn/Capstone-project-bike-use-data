@@ -7,6 +7,9 @@ EDA Project for bike use data.
 [Notebook]: https://img.shields.io/badge/Notebook-informational?style=for-the-badge
 [Dashboard]: https://img.shields.io/badge/Dashboard-green?style=for-the-badge
 
+![image](https://github.com/jeshuacn/Capstone-project-bike-use-data/assets/33787097/ce14b0af-bb4c-45fb-88e6-4fb6d970694d)
+
+
 ## Scenario
 The director of marketing believes the company’s future success depends on maximizing the number of annual memberships. Therefore, your team wants to understand how casual riders and annual members use bikes differently. From these insights, your team will design a new marketing strategy to convert casual riders into annual members.
 
