@@ -1,8 +1,12 @@
 # Capstone-project-bike-use-data
 
-[![Notebook]](https://github.com/jeshuacn/Capstone-project-bike-use-data/blob/main/Cyclistic_Bike_Sharing.ipynb) EDA Project for bike use data.
+[![Notebook]](https://github.com/jeshuacn/Capstone-project-bike-use-data/blob/main/Cyclistic_Bike_Sharing.ipynb)  [![Dashboard]](https://public.tableau.com/app/profile/jeshua2189/viz/CaseStudyCyclisticBikeSharing/CaseStudyCyclisticBikeSharing?publish=yes)
+
+EDA Project for bike use data.
 
 [Notebook]: https://img.shields.io/badge/Notebook-informational?style=for-the-badge
+[Dashboard]: https://img.shields.io/badge/Dashboard-green?style=for-the-badge
+
 ## Scenario
 The director of marketing believes the company’s future success depends on maximizing the number of annual memberships. Therefore, your team wants to understand how casual riders and annual members use bikes differently. From these insights, your team will design a new marketing strategy to convert casual riders into annual members.
 
